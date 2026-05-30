@@ -1,6 +1,6 @@
 # 05 — 事务消息与最终一致性
 
-> 关联篇目：[02 RocketMQ 架构](./02-rocketmq-architecture.md) | [第七章 分布式事务](../07-database-storage/09-database-advanced.md) | [第十一章 幂等性](../11-system-design/06-idempotency-consistency.md)
+> 关联篇目：[08 RocketMQ 架构](./08-rocketmq-architecture.md) | [分布式事务](../07-database-storage/09-database-advanced.md) | [幂等性](./06-idempotency-consistency.md)
 
 ---
 

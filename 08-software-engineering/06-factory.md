@@ -1,6 +1,6 @@
 # 02 — 工厂模式：简单工厂、工厂方法、抽象工厂
 
-> 关联篇目：[03 策略与观察者](./03-strategy-observer.md) | [第一章 模板/CRTP](../01-cpp-basics/06-templates-sfinae-crtp.md)
+> 关联篇目：[07 策略与观察者](./07-strategy-observer.md) | [第一章 模板/CRTP](../01-cpp-basics/06-templates-sfinae-crtp.md)
 
 ---
 
@@ -158,4 +158,4 @@ auto car = f.create<Car>("suv");
 | 工厂方法 | 子类决定创建哪个产品 | 一对一，需要扩展 |
 | 抽象工厂 | 创建产品族（一组相关对象） | 跨平台 UI、主题切换 |
 
-下一篇 [03 策略与观察者模式](./03-strategy-observer.md)。
+下一篇 [07 策略与观察者模式](./07-strategy-observer.md)。

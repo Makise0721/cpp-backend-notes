@@ -1,6 +1,6 @@
 # 04 — 消息可靠性、顺序消息与消费幂等
 
-> 关联篇目：[02 RocketMQ](./02-rocketmq-architecture.md) | [03 RabbitMQ](./03-rabbitmq-architecture.md) | [第十一章 幂等性设计](../11-system-design/06-idempotency-consistency.md)
+> 关联篇目：[08 RocketMQ](./08-rocketmq-architecture.md) | [09 RabbitMQ](./09-rabbitmq-architecture.md) | [幂等性设计](./06-idempotency-consistency.md)
 
 ---
 

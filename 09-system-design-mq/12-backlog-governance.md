@@ -1,6 +1,6 @@
 # 06 — 消息积压治理
 
-> 关联篇目：[04 可靠性](./04-message-reliability-ordering.md) | [第十一章 限流熔断](../11-system-design/02-rate-limit-circuit-breaker.md)
+> 关联篇目：[10 可靠性](./10-message-reliability-ordering.md) | [限流熔断](./02-rate-limit-circuit-breaker.md)
 
 ---
 

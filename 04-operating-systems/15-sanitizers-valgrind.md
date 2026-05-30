@@ -1,6 +1,6 @@
 # 05 — Sanitizer 与 Valgrind：内存错误检测
 
-> 关联篇目：[01 perf](./01-perf-flamegraph.md) | [03 GDB](./03-gdb-core-dump.md)
+> 关联篇目：[11 perf](./11-perf-flamegraph.md) | [13 GDB](./13-gdb-core-dump.md)
 
 ---
 

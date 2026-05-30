@@ -1,6 +1,6 @@
 # 05 — 模板方法模式与责任链模式
 
-> 关联篇目：[04 Pimpl/适配器/装饰器](./04-pimpl-adapter-decorator.md) | [第一章 虚函数](../01-cpp-basics/04-virtual-vtable.md)
+> 关联篇目：[08 Pimpl/适配器/装饰器](./08-pimpl-adapter-decorator.md) | [第一章 虚函数](../01-cpp-basics/04-virtual-vtable.md)
 
 ---
 

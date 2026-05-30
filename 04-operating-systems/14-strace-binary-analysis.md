@@ -1,6 +1,6 @@
 # 04 — strace、ltrace 与二进制分析
 
-> 关联篇目：[03 GDB](./03-gdb-core-dump.md) | [第一章 06 网络排查](../06-network-programming/10-troubleshooting.md)
+> 关联篇目：[13 GDB](./13-gdb-core-dump.md) | [第一章 06 网络排查](../06-network-programming/10-troubleshooting.md)
 
 ---
 

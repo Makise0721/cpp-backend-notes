@@ -1,6 +1,6 @@
 # 03 — RabbitMQ 架构：Exchange、死信队列、ack/nack
 
-> 关联篇目：[01 选型](./01-mq-selection.md) | [04 可靠性](./04-message-reliability-ordering.md)
+> 关联篇目：[07 选型](./07-mq-selection.md) | [10 可靠性](./10-message-reliability-ordering.md)
 
 ---
 

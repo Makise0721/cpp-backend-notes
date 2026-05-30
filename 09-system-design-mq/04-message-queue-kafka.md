@@ -1,6 +1,6 @@
 # 04 — 消息队列与 Kafka 核心概念
 
-> 📘 消息队列的更深入讨论见 [第十四章：消息队列](../../14-message-queue/README.md) — MQ 选型对比、RocketMQ/RabbitMQ 架构、事务消息、顺序消息、积压治理等。
+> 📘 消息队列的更深入讨论见 [消息队列深入 (07-12)](./07-mq-selection.md) — MQ 选型对比、RocketMQ/RabbitMQ 架构、事务消息、顺序消息、积压治理等。
 
 ---
 

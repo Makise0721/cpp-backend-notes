@@ -1,6 +1,6 @@
 # 04 — 测试框架与 CI/CD
 
-> 关联篇目：[03 Git 工作流](./03-git-workflow.md) | [第八章 05 Sanitizer](../08-linux-perf-debug/05-sanitizers-valgrind.md)
+> 关联篇目：[03 Git 工作流](./03-git-workflow.md) | [第四章 15 Sanitizer](../04-operating-systems/15-sanitizers-valgrind.md)
 
 ---
 

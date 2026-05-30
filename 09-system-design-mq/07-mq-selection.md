@@ -1,6 +1,6 @@
 # 01 — 消息队列选型：Kafka / RocketMQ / RabbitMQ / Pulsar
 
-> 关联篇目：[02 RocketMQ 架构](./02-rocketmq-architecture.md) | [03 RabbitMQ 架构](./03-rabbitmq-architecture.md) | [第十一章 Kafka 基础](../11-system-design/04-message-queue-kafka.md)
+> 关联篇目：[08 RocketMQ 架构](./08-rocketmq-architecture.md) | [09 RabbitMQ 架构](./09-rabbitmq-architecture.md) | [Kafka 基础](./04-message-queue-kafka.md)
 
 ---
 

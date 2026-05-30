@@ -1,6 +1,6 @@
 # 04 — Pimpl、适配器、装饰器模式
 
-> 关联篇目：[第一章 02 RAII](../01-cpp-basics/02-raii-rule-of-five.md) | [第九章 01 编译链接](../09-build-engineering/01-compilation-link-process.md)
+> 关联篇目：[第一章 02 RAII](../01-cpp-basics/02-raii-rule-of-five.md) | [01 编译链接](./01-compilation-link-process.md)
 
 ---
 

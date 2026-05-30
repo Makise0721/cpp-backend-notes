@@ -1,6 +1,6 @@
 # 02 — RocketMQ 架构：NameServer、Broker、事务消息、延迟消息
 
-> 关联篇目：[01 选型](./01-mq-selection.md) | [04 可靠性与顺序](./04-message-reliability-ordering.md)
+> 关联篇目：[07 选型](./07-mq-selection.md) | [10 可靠性与顺序](./10-message-reliability-ordering.md)
 
 ---
 

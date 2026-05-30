@@ -1,6 +1,6 @@
 # 02 — gRPC Deadline、超时控制与负载均衡
 
-> 关联篇目：[01 调用模式与拦截器](./01-grpc-streaming-interceptor.md)
+> 关联篇目：[11 调用模式与拦截器](./11-grpc-streaming-interceptor.md)
 
 ---
 

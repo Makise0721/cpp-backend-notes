@@ -1,6 +1,6 @@
 # 03 — GDB 调试与 Core Dump 分析
 
-> 关联篇目：[04 strace/ltrace/二进制分析](./04-strace-binary-analysis.md)
+> 关联篇目：[14 strace/二进制分析](./14-strace-binary-analysis.md)
 
 ---
 

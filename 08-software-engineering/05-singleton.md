@@ -185,4 +185,4 @@ Logger::getInstance().log("hello");
 | 饿汉 | ✅ | 可，注意初始化顺序 |
 | `call_once` | ✅ | 灵活版本 |
 
-下一篇 [02 工厂模式](./02-factory.md)。
+下一篇 [06 工厂模式](./06-factory.md)。

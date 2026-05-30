@@ -1,6 +1,6 @@
 # 03 — 策略模式与观察者模式
 
-> 关联篇目：[02 工厂模式](./02-factory.md) | [第二章 02 Lambda](../02-cpp11-17-features/02-lambda-deep-dive.md)
+> 关联篇目：[06 工厂模式](./06-factory.md) | [第二章 02 Lambda](../02-cpp11-17-features/02-lambda-deep-dive.md)
 
 ---
 
@@ -188,4 +188,4 @@ public:
 | 策略（运行时） | `std::function` 替代虚函数 |
 | 观察者 | `std::function` 回调列表 / 信号槽 |
 
-下一篇 [04 Pimpl / 适配器 / 装饰器模式](./04-pimpl-adapter-decorator.md)。
+下一篇 [08 Pimpl / 适配器 / 装饰器模式](./08-pimpl-adapter-decorator.md)。

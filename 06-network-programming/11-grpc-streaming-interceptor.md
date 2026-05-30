@@ -1,6 +1,6 @@
 # 01 — gRPC 四种调用模式与拦截器
 
-> 关联篇目：[第六章 09 Protobuf](../06-network-programming/09-high-performance.md) | [02 Deadline](./02-grpc-deadline-lb.md)
+> 关联篇目：[第六章 09 Protobuf](../06-network-programming/09-high-performance.md) | [12 Deadline](./12-grpc-deadline-lb.md)
 
 ---
 

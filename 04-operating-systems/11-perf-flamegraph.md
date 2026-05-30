@@ -1,6 +1,6 @@
 # 01 — perf 与火焰图：CPU 性能分析利器
 
-> 关联篇目：[02 系统监控](./02-system-monitoring.md) | [05 Sanitizer](./05-sanitizers-valgrind.md)
+> 关联篇目：[12 系统监控](./12-system-monitoring.md) | [15 Sanitizer](./15-sanitizers-valgrind.md)
 
 ---
 

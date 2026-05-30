@@ -1,6 +1,6 @@
 # 02 — 系统级监控：top、htop、pidstat、vmstat、iostat、sar、free
 
-> 关联篇目：[01 perf](./01-perf-flamegraph.md) | [06 网络调试](./06-network-debugging.md)
+> 关联篇目：[11 perf](./11-perf-flamegraph.md) | [16 网络调试](./16-network-debugging.md)
 
 ---
 

@@ -1,6 +1,6 @@
 # 03 — gRPC 生产实践：Keepalive、健康检查、Channel 管理
 
-> 关联篇目：[01 调用模式](./01-grpc-streaming-interceptor.md) | [02 Deadline](./02-grpc-deadline-lb.md)
+> 关联篇目：[11 调用模式](./11-grpc-streaming-interceptor.md) | [12 Deadline](./12-grpc-deadline-lb.md)
 
 ---
 
