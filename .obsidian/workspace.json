@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-cpp-basics/01-oop-basics.md",
+                "file": "11-system-design/04-message-queue-kafka.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-oop-basics"
+              "title": "04-message-queue-kafka"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-cpp-basics/01-oop-basics.md",
+                "file": "01-cpp-basics/03-static-operator-overload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "01-oop-basics 的反向链接列表"
+              "title": "03-static-operator-overload 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-cpp-basics/01-oop-basics.md",
+                "file": "01-cpp-basics/03-static-operator-overload.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "01-oop-basics 的出链列表"
+              "title": "03-static-operator-overload 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-cpp-basics/01-oop-basics.md",
+                "file": "01-cpp-basics/03-static-operator-overload.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01-oop-basics 的大纲"
+              "title": "03-static-operator-overload 的大纲"
             }
           }
         ]
@@ -185,27 +185,32 @@
   },
   "active": "213058d59408f39e",
   "lastOpenFiles": [
-    "13-grpc-deep-dive/README.md",
+    "14-message-queue/README.md",
+    "14-message-queue/06-backlog-governance.md",
+    "14-message-queue/05-message-transaction.md",
+    "14-message-queue/04-message-reliability-ordering.md",
+    "14-message-queue/03-rabbitmq-architecture.md",
+    "14-message-queue/02-rocketmq-architecture.md",
+    "14-message-queue/01-mq-selection.md",
+    "14-message-queue",
+    "11-system-design/03-distributed-id-lock.md",
+    "11-system-design/05-load-balance-service-discovery.md",
+    "11-system-design/06-idempotency-consistency.md",
+    "11-system-design/04-message-queue-kafka.md",
+    "01-cpp-basics/03-static-operator-overload.md",
+    "01-cpp-basics/02-raii-rule-of-five.md",
+    "01-cpp-basics/01-oop-basics.md",
     "12-container-k8s/README.md",
+    "13-grpc-deep-dive/README.md",
+    "07-database-storage/README.md",
     "11-system-design/README.md",
     "10-design-patterns/README.md",
     "09-build-engineering/README.md",
     "02-cpp11-17-features/11-cpp20-preview.md",
     "08-linux-perf-debug/README.md",
-    "07-database-storage/README.md",
     "02-cpp11-17-features/README.md",
     "01-cpp-basics/README.md",
     "06-network-programming/README.md",
-    "01-cpp-basics/01-oop-basics.md",
-    "05-concurrency/README.md",
-    "04-operating-systems/README.md",
-    "03-data-structures-algorithms/README.md",
-    "README.md",
-    "07-database-storage/05-redis-data-structures.md",
-    "07-database-storage/06-redis-persistence-eventloop.md",
-    "07-database-storage/07-redis-cache-advanced.md",
-    "07-database-storage/08-lsm-tree-storage.md",
-    "01-cpp-basics/06-templates-sfinae-crtp.md",
-    "01-cpp-basics/02-raii-rule-of-five.md"
+    "05-concurrency/README.md"
   ]
 }

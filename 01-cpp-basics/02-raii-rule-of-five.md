@@ -99,7 +99,7 @@ private:
 };
 ```
 
-### 2.3 GPU 内存管理（AI Infra 关注）
+### 2.3 GPU 内存管理
 
 ```cpp
 class CudaBuffer {
@@ -122,8 +122,6 @@ public:
     }
 };
 ```
-
-> 在 AI 推理/训练系统中，RAII 是管理 GPU 显存、CUDA stream、NCCL communicator 的标准范式。
 
 ---
 
